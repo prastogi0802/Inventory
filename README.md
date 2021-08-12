@@ -1,3 +1,3 @@
 # Inventory
 
-This is the sample application for understanding git and python
+This is the application for understanding git and python
